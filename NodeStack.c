@@ -19,6 +19,7 @@ nodestack *AddStack()
   int n;
   nodestack *pr = head;
   nodestack *p = NULL;
+  
   p = (nodestack *)malloc(sizeof(nodestack));
   if (head == NULL)
   {
