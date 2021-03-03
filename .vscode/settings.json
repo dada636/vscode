@@ -6,6 +6,8 @@
     "*.wxss": "css",
     "stdio.h": "c",
     "stdlib.h": "c",
-    "malloc.h": "c"
+    "malloc.h": "c",
+    "hashtable.h": "c",
+    "negate.h": "c"
   }
 }

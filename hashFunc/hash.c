@@ -12,7 +12,7 @@ typedef struct HashNode{
 
 
 typedef struct HashTable{
-    HashNode * hashNode[MAX_TABLE_SIZE];
+    HashNode *hashNode[MAX_TABLE_SIZE];
     int currentIndex;
 }HashTable;
 
